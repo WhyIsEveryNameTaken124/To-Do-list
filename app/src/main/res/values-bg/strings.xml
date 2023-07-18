@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">project 1</string>
+    <string name="edittext_hint">Добави нещо към листа</string>
+    <string name="button_text">Добави</string>
+    <string name="popup_main_text">Сигурен ли си че ти се трие?</string>
+    <string name="popup_yes">дап</string>
+    <string name="popup_no">неп</string>
+</resources>

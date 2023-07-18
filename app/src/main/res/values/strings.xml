@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">project 1</string>
+    <string name="edittext_hint">Add item to the list</string>
+    <string name="button_text">Add</string>
+    <string name="popup_main_text">Do you really want to delete this item?</string>
+    <string name="popup_yes">Yes</string>
+    <string name="popup_no">No</string>
+</resources>
